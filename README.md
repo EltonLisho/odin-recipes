@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic website that is built using only HTML to showcase some of the concepts that I've learnt through the Odin Project. It shows how to use relative links that allow the user to navigate through the webpages contained on the website. There is no styling on this webpage, but it is not really brutalist! I will definietly come back to it later and add some flavor using CSS!
